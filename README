@@ -1,0 +1,3 @@
+A quick way to create vm using kvm and existing qcow2 image.
+The network is macvtap,which is faster and more convinent than bridge.
+passwd can be changed by tool virt-customize.
